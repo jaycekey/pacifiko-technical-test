@@ -1,0 +1,20 @@
+1. How many employees earn more than $300,000.00?
+R.// 11
+
+2. Create a record with your name. You can use fake data for the other attributes.
+R.// Response object:
+{
+    "status": "success",
+    "data": {
+        "employee_name": "Jose Carlos",
+        "employee_salary": 100000,
+        "employee_age": 21,
+        "profile_image": null,
+        "id": 4160
+    },
+    "message": "Successfully! Record has been added."
+}
+
+3. What’s your user id?
+
+R.// 4160
