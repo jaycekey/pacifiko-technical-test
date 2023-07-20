@@ -17,7 +17,8 @@ Este repositorio contiene mi solución a la prueba técnica para Junior Software
 
 ### Parte 2
 - `technicalTest-P-2/`: Carpeta que contiene los ejercicios de la parte 2 de la prueba.
-- `README.md`: Este archivo que proporciona información sobre el repositorio.
+
+- `README.md`: Este archivo proporciona información sobre el repositorio.
 
 ## Contacto
 
